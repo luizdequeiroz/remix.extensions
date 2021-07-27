@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Luiz de Queiroz</Authors>
+    <PackageId>Remix.Extensions</PackageId>
+    <Product>Remix.Extensions</Product>
+    <Description>ComparerExtension, to compare objects using a generic comparer that implements IEqualityComparer.
+ObjectsExtension for reflection between objects.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0-beta</Version>
+  </PropertyGroup>
+
+</Project>
